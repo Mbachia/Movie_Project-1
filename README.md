@@ -25,16 +25,13 @@ This dataset comprises two main tables. The first table includes columns such as
 
 The second table, on the other hand, contains columns like 'id,' 'release_date,' 'movie,' 'production_budget,' 'domestic_gross,' and 'worldwide_gross.' This table focuses on financial aspects, including production budgets, domestic and worldwide gross earnings, and release dates. By analyzing these datasets.
 
- We can gain insights into the performance and characteristics of different movies, their financial success, and how factors like genre and runtime may influence their ratings and earnings.
+We can gain insights into the performance and characteristics of different movies, their financial success, and how factors like genre and runtime may influence their ratings and earnings.
 
-The analysis contains the following:
-1. Business Understanding
-2. Importing libraries and datasets
-3. Previewing the datasets
-4. Data Cleaning
-5. Exploratory data analysis(Univeriate, Bivariate and Multivariate)
-6. Summary
-7. Recommendations
+Data Visualization:
+![7061c10f-eaa0-4f15-9355-ee145d7de052](https://github.com/Mbachia/Movie_Project-1/assets/125476762/283d0738-34ac-4412-9dc0-e615413578c7)
+![5bd4c43f-71b2-4b48-95ea-eeb39310f8ea](https://github.com/Mbachia/Movie_Project-1/assets/125476762/46e43d44-8cf7-4d3a-b95e-872f8bc68d56)
+![c43baada-4193-4c42-84c0-8538ed1e999b](https://github.com/Mbachia/Movie_Project-1/assets/125476762/0f906f54-c22d-4b22-9106-40addba17abc)
+
 
 Conclusion
 Summary of Conclusions:
