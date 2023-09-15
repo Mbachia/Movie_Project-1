@@ -36,7 +36,13 @@ The analysis contains the following:
 6. Summary
 7. Recommendations
 
+Visualization & FIndings
+Average run-time through the years:
+![e3dff625-324d-425d-90e4-f8b3b9859738](https://github.com/Mbachia/Movie_Project-1/assets/125476762/cf183a64-4294-4c18-a054-b4fc7d986f55)
+Average Gross Income Through the Years:
 ![e911b1d0-d4d5-4bab-8042-8bf5896561fd](https://github.com/Mbachia/Movie_Project-1/assets/125476762/bf372db1-4de0-4746-adf0-8555c868754b)
+Movies produced:
+![0d5a99b8-189f-4a72-8fa8-f3088026a184](https://github.com/Mbachia/Movie_Project-1/assets/125476762/5c207825-7924-450f-8aa2-9675b16ec105)
 
 Conclusion
 Summary of Conclusions:
