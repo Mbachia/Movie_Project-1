@@ -36,6 +36,8 @@ The analysis contains the following:
 6. Summary
 7. Recommendations
 
+![e911b1d0-d4d5-4bab-8042-8bf5896561fd](https://github.com/Mbachia/Movie_Project-1/assets/125476762/bf372db1-4de0-4746-adf0-8555c868754b)
+
 Conclusion
 Summary of Conclusions:
 
