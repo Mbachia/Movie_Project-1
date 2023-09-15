@@ -25,8 +25,16 @@ This dataset comprises two main tables. The first table includes columns such as
 
 The second table, on the other hand, contains columns like 'id,' 'release_date,' 'movie,' 'production_budget,' 'domestic_gross,' and 'worldwide_gross.' This table focuses on financial aspects, including production budgets, domestic and worldwide gross earnings, and release dates. By analyzing these datasets.
 
- We can gain insights into the performance and characteristics of different movies, their financial success, and how factors like genre and runtime may influence their ratings and earnings.
+We can gain insights into the performance and characteristics of different movies, their financial success, and how factors like genre and runtime may influence their ratings and earnings.
 
+The analysis contains the following:
+1. Business Understanding
+2. Importing libraries and datasets
+3. Previewing the datasets
+4. Data Cleaning
+5. Exploratory data analysis(Univeriate, Bivariate and Multivariate)
+6. Summary
+7. Recommendations
 
 Conclusion
 Summary of Conclusions:
