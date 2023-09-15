@@ -27,14 +27,6 @@ The second table, on the other hand, contains columns like 'id,' 'release_date,'
 
  We can gain insights into the performance and characteristics of different movies, their financial success, and how factors like genre and runtime may influence their ratings and earnings.
 
-The analysis contains the following:
-1. Business Understanding
-2. Importing libraries and datasets
-3. Previewing the datasets
-4. Data Cleaning
-5. Exploratory data analysis(Univeriate, Bivariate and Multivariate)
-6. Summary
-7. Recommendations
 
 Conclusion
 Summary of Conclusions:
