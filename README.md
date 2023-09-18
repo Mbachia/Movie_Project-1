@@ -44,7 +44,7 @@ Average Gross Income Through the Years:
 Movies produced:
 ![0d5a99b8-189f-4a72-8fa8-f3088026a184](https://github.com/Mbachia/Movie_Project-1/assets/125476762/5c207825-7924-450f-8aa2-9675b16ec105)
 
-Conclusion
+
 Summary of Conclusions:
 
 Enhanced Data Quality Assessment:
@@ -79,7 +79,6 @@ The recommendations to Microsoft were as follows:
 Based on my findings, I would recommend the following to Microsoft:
 1. Optimal Movie Runtime:
 Consider targeting an average runtime of around 90 minutes for your movies, as this has been the historical average. This duration tends to align with audience preferences and can optimize viewer engagement.
-
 2. Genre Selection:
 Given that music movies have a higher median rating, consider producing or investing in music-related films as they have a better chance of receiving favorable ratings from viewers. However, also explore other genres that align with your studio's vision and capabilities
 3. Budget and Revenue:
